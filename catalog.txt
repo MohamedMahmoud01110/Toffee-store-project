@@ -1,0 +1,7 @@
+toffee sweet,Toffee,is a chocolate with milk ,standard,75.0,50,20.0
+Black sweet,choclate,is a chocolate with milk ,premium,200,80,15.0
+classic sweet,Toffee,is a rich buttery toffee ,standard,110,30,0.0
+Sea Salt Caramel Toffee,Toffee,Toffee with a touch of sea salt and gooey caramel,premium,500,44,10.0
+Espresso Toffee, Toffee,Toffee infused with espresso flavor,premium,600,70,12.5
+Vegan Toffee , Toffee , Dairy-free toffee made with coconut milk , Vegan , 750.0 , 9 , 0.0
+Nutty Toffee , Toffee , Crunchy toffee with mixed nuts , standard , 120.0 , 54 , 0.0
